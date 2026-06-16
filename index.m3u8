@@ -1,521 +1,521 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
 
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png",A&E USA
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",AMC USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium302/index.m3u8?md5v1=83oUybShZ2ucVB4fa0Z4GQ&md5v2=j-dYy44CYCuY1u1Bczca9A&expires=1781608040
-
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-logo="",ANTENNA TV USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium283/index.m3u8?md5v1=5iR4ThqYBccPxl0KzAi-BQ&md5v2=0cXlzDEGVoLdJUZWRxpUeA&expires=1781608041
-
-#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/american-heroes-channel-us.png",AHC (AMERICAN HEROES CHANNEL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://zalis.phantemlis.top/premium206/index.m3u8?md5v1=4gfNLARTVc5yU7_GlHGbXA&md5v2=-foGM0prydc5oIkZc48CSw&expires=1781608042
-
-#EXTINF:-1 tvg-id="ABC.National.Feed.Pacific.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png",ABC USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium51/index.m3u8?md5v1=t4zgX7TXpfghwxQgQG9k5A&md5v2=FJNzk4likoejKkwqYRok9A&expires=1781608042
+https://pontos.phantemlis.top/premium303/index.m3u8?md5v1=flx7uz13_f2th2jOSMyKgA&md5v2=pruacBlwx00JAAXaMeJ0Qw&expires=1781608233
 
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium304/index.m3u8?md5v1=89NmWmpzGfDIKMjlSDjc6w&md5v2=hd9vD3_iYZd5p6w28ZAPjQ&expires=1781608042
+https://pontos.phantemlis.top/premium304/index.m3u8?md5v1=fmzrJ0fJ16my8DDyIzUDjw&md5v2=r4kOrOxmnXtQ7ue8xjKBkg&expires=1781608233
+
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-logo="",ANTENNA TV USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://pontos.phantemlis.top/premium283/index.m3u8?md5v1=N9VSBaP6jPu4GQG-6NkB8A&md5v2=ej9tRho3rHfo_679NPDgpg&expires=1781608233
+
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/american-heroes-channel-us.png",AHC (AMERICAN HEROES CHANNEL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://zalis.phantemlis.top/premium206/index.m3u8?md5v1=_Xf42irZw5SQRS-C-ysWPw&md5v2=EpT5y3Ln2TWyQJk23QBncw&expires=1781608234
+
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png",A&E USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://vomos.phantemlis.top/premium302/index.m3u8?md5v1=4KtKKKuXeXbxOd-WpzsZ5w&md5v2=8Jo4M_IQEICTkiAMmDSu6w&expires=1781608234
 
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png",ABC NY USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium766/index.m3u8?md5v1=5JTUsG-Tl-cG-6i_if0Sjw&md5v2=8qDqhUrC84HMOR1fnwnjNw&expires=1781608042
+https://vomos.phantemlis.top/premium766/index.m3u8?md5v1=Pt7WyS-q8JT7ylHwUsm6vQ&md5v2=VuIy4b2aNf4W4U-QtpNMJg&expires=1781608234
 
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/acc-network-us.png",ACC NETWORK USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://fomis.phantemlis.top/premium664/index.m3u8?md5v1=7Z-Lvq3afe8FEjv5zSBm2w&md5v2=UzVXjo0zd5bHY5WVtxwBYQ&expires=1781608042
+https://fomis.phantemlis.top/premium664/index.m3u8?md5v1=vq2s2MK6AgOASsmRm7jv4w&md5v2=pPlZhI5Shq5lfWQb14FotQ&expires=1781608234
 
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",AMC USA
+#EXTINF:-1 tvg-id="ABC.National.Feed.Pacific.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png",ABC USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium303/index.m3u8?md5v1=ohJGNN2p3qhxDJmziXlcQQ&md5v2=UCTr2WgeF4HzFkxKMWzUlQ&expires=1781608043
-
-#EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png",BOOMERANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://fomis.phantemlis.top/premium648/index.m3u8?md5v1=ka1YFpC5Li7gSs4-zAFFsQ&md5v2=L5KWUHmYDxtPWmysYnYF7Q&expires=1781608044
-
-#EXTINF:-1 tvg-id="CW.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/the-cw-us.png",CW USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium300/index.m3u8?md5v1=sDqpcX1ZxBqH-6Zi7BHhHw&md5v2=JrNrS1n0ATCgSHYBO-_PaQ&expires=1781608045
-
-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png",BET USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium306/index.m3u8?md5v1=TkkK7K68jSHaIrwpxXMQ8Q&md5v2=MD7VZxwdkXfgDkCUVLZ6kg&expires=1781608046
-
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png",BRAVO USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium307/index.m3u8?md5v1=UggNaJdG4mW6SqktAw8a9w&md5v2=ds9G3s8c6AAOklPo6VidcQ&expires=1781608046
-
-#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/big-ten-network-us.png",BIG TEN NETWORK (BTN USA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://kolis.phantemlis.top/premium397/index.m3u8?md5v1=POxScOHNwr320x5XNG1itg&md5v2=ASiTjOiiDdAGjX9ZyqA-Jw&expires=1781608047
-
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium339/index.m3u8?md5v1=iUZy6gC2fBE8_FWF8KkIvA&md5v2=NWadzQH8Z9yiMVshGdOiaQ&expires=1781608047
+https://vomos.phantemlis.top/premium51/index.m3u8?md5v1=NFrolgN0U121mErsCFoP1w&md5v2=slXEHWa5Gvh0OKX929mplQ&expires=1781608235
 
 #EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-logo="",CBS USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium52/index.m3u8?md5v1=Pal69cH6b9Dr6faThpgPvw&md5v2=3pggbykXacIifPwcMvi4Aw&expires=1781608047
+https://pontos.phantemlis.top/premium52/index.m3u8?md5v1=4H5Ocf7beFaI4NL8kD81Og&md5v2=a-u1mrJ5WM7LS0Qd7U386Q&expires=1781608236
+
+#EXTINF:-1 tvg-id="BET.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png",BET USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://vomos.phantemlis.top/premium306/index.m3u8?md5v1=5sJG_rEb6xt5ZenZMFxA2Q&md5v2=-obDR8RClyLQOsT__ohylQ&expires=1781608236
+
+#EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png",BOOMERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://fomis.phantemlis.top/premium648/index.m3u8?md5v1=7yjSbTe-BrXDGRzc8s01Hw&md5v2=ePqWEj0UvFS4YrYsLxSfxQ&expires=1781608236
+
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png",BRAVO USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://pontos.phantemlis.top/premium307/index.m3u8?md5v1=XZQxHvtEkYhzopWO8MhrBg&md5v2=T2nzTDvbv7F87Rd7k_1uIg&expires=1781608236
+
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/big-ten-network-us.png",BIG TEN NETWORK (BTN USA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://kolis.phantemlis.top/premium397/index.m3u8?md5v1=96OYjfT8gCEu9Yl82nUTnQ&md5v2=eNz6NKRB16y0REd4cwsWOA&expires=1781608237
 
 #EXTINF:-1 tvg-id="CW.Plus.East.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/the-cw-us.png",CW PIX 11 USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium280/index.m3u8?md5v1=Z6m-AYhqmrGbz-0qcC_ovQ&md5v2=_JnMRIxcp3O8zXBbNfMmUg&expires=1781608046
+https://pontos.phantemlis.top/premium280/index.m3u8?md5v1=oVOPfF_Pc1xP3EW0ehKvmw&md5v2=omfyw6tEtt4i4qI5bDyTUA&expires=1781608237
 
-#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png",CINEMAX USA
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium374/index.m3u8?md5v1=oHCfJLon5lfj0k0Wq22TFA&md5v2=dSLaCgA72iLzkae2EkLlEw&expires=1781608048
+https://pontos.phantemlis.top/premium339/index.m3u8?md5v1=I-qM3BqGsy9wGd_QvmK5cw&md5v2=od5Dh-9l_JXZA6hDMMAgBQ&expires=1781608237
 
-#EXTINF:-1 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-logo="",CBSNY USA
+#EXTINF:-1 tvg-id="CW.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/the-cw-us.png",CW USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium767/index.m3u8?md5v1=PrCpPwae1YnpsOEGvg7OJQ&md5v2=0hIFr1VKyYqFST0F_JxyYg&expires=1781608048
-
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cozi-tv-us.png",COZI TV USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://zalis.phantemlis.top/premium748/index.m3u8?md5v1=HjIW4KfLrobjSSVWdiAbrA&md5v2=dkYgirKPtw_ogYEv22owWg&expires=1781608048
+https://vomos.phantemlis.top/premium300/index.m3u8?md5v1=B0NxLhKRgFqTfksZpHd_MA&md5v2=18I419ZWgXxokihrd0m2zg&expires=1781608238
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/crime-and-investigation-us.png",CRIME+ INVESTIGATION USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://fomis.phantemlis.top/premium669/index.m3u8?md5v1=McNcF1Amv_YI6fBhykI8CA&md5v2=6fTmTnKmDI43p06mWxVNBg&expires=1781608049
+https://fomis.phantemlis.top/premium669/index.m3u8?md5v1=WOp41OzS8O9Wjntm4p-38Q&md5v2=2Rwv9YgEaQr-TA2MebVVLQ&expires=1781608238
+
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cozi-tv-us.png",COZI TV USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://zalis.phantemlis.top/premium748/index.m3u8?md5v1=m3MlXN4VzrAsIsRCp_NfMQ&md5v2=-PmKjTro-zfTGpbdRgYY5A&expires=1781608238
 
 #EXTINF:-1 tvg-id="Comet.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comet-us.png",COMET USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium696/index.m3u8?md5v1=eU2d5HHpe1dhc3joG_WCBg&md5v2=HggiFeeNajLMSsc9Olr58Q&expires=1781608049
+https://pontos.phantemlis.top/premium696/index.m3u8?md5v1=cp7pZtNC0a_wa0VcYu5T6Q&md5v2=Qw2QKUgqbJk6mzu7OM25IA&expires=1781608239
 
-#EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-logo="",DISCOVERY VELOCITY CA
+#EXTINF:-1 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-logo="",CBSNY USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://zalis.phantemlis.top/premium285/index.m3u8?md5v1=JnT3yGmRHQaPI1WbnjKJhw&md5v2=HmMw6VmzfRQtAafs3hvLxg&expires=1781608050
+https://vomos.phantemlis.top/premium767/index.m3u8?md5v1=tnE5SMCjbkd1umbsJd8oBA&md5v2=NQ3uXz0dd0NJAM0AF__x3Q&expires=1781608239
+
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png",CINEMAX USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://vomos.phantemlis.top/premium374/index.m3u8?md5v1=_0goFR4ow2SFIieV-uQdOg&md5v2=2BHG3vP_rfsTWGQTiEOH-Q&expires=1781608239
 
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-life-us.png",DISCOVERY LIFE CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium311/index.m3u8?md5v1=wPN9u4YS4cYnIQ9o-wF-fQ&md5v2=WtolYxvK4KSjdRtx4FnUsQ&expires=1781608050
+https://vomos.phantemlis.top/premium311/index.m3u8?md5v1=opFYeB-ZRtjb5mnZ89xXvg&md5v2=U7sjcM1QlxDiJNZ0Sm0U9g&expires=1781608241
 
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png",DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium312/index.m3u8?md5v1=-WOE5-BxrVzF-7e0XdD6EQ&md5v2=vOPtqYjpcYmgtwVnaru-nQ&expires=1781608050
-
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png",DISCOVERY FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://fomis.phantemlis.top/premium657/index.m3u8?md5v1=anfbOJc9AeVj_pTbT0q6jQ&md5v2=O3pAnjwmf8xX6rikLP80yg&expires=1781608053
+https://vomos.phantemlis.top/premium312/index.m3u8?md5v1=jb_-UO4cpMJ0j_YrqkStVQ&md5v2=ezgKuTgE3yOzK5gI6zpBqw&expires=1781608241
 
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium313/index.m3u8?md5v1=BvIr_V6RcuPashx_Pvt3Uw&md5v2=yxaUxleJcyLspM5VkZjyPA&expires=1781608053
+https://vomos.phantemlis.top/premium313/index.m3u8?md5v1=1jLsZeYNNOPNkdo3YBUM-A&md5v2=SYNxNmqNzskiNr3Uu95oSA&expires=1781608242
+
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png",DISCOVERY FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://fomis.phantemlis.top/premium657/index.m3u8?md5v1=IqDQqqWQtfcOojhmOgRsGA&md5v2=RzAmWHDpIZPT4kbINsPvAw&expires=1781608241
+
+#EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-logo="",DISCOVERY VELOCITY CA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://zalis.phantemlis.top/premium285/index.m3u8?md5v1=B5t87ILSKuuu6lJFlBAU5g&md5v2=0COtqlBtKvtUKTixRI8icw&expires=1781608241
 
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png",DISNEY XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium314/index.m3u8?md5v1=C9-BCvkQmz_77BevEl9jZg&md5v2=d6vG2ePd2Gze7Ufpmp74aQ&expires=1781608053
+https://vomos.phantemlis.top/premium314/index.m3u8?md5v1=i1iQlTFI_H-6_BOT8eGm3A&md5v2=SzKlemTKs-ZlKujIMdINnw&expires=1781608242
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="",E! ENTERTAINMENT TELEVISION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium315/index.m3u8?md5v1=RwIbJOrVQRCCGO33r779yQ&md5v2=HNH_bWeKS-G0r2WYkx3lNQ&expires=1781608053
+https://vomos.phantemlis.top/premium315/index.m3u8?md5v1=FkIPtbpf4jx_gdmrSUWlWg&md5v2=XGKsNZo1ZAuGo4Js0qvxhg&expires=1781608244
 
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png",DISNEY JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium652/index.m3u8?md5v1=mQ0kXeK28URrUJV_bEj4bg&md5v2=4NxJGmbbBiY3M7thqyTZDg&expires=1781608054
+https://pontos.phantemlis.top/premium652/index.m3u8?md5v1=7MjUnATgBNE936sjL-6brQ&md5v2=Ojr-QSIupXFqJk69FcI6SQ&expires=1781608244
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png",FOX SOCCER PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://zalis.phantemlis.top/premium756/index.m3u8?md5v1=aKYiRyKWwcfynoBgyMF-aA&md5v2=TGZdKZZ3u-H-CDTdvjLNug&expires=1781608054
-
-#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-logo="",FOX CRICKET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://zalis.phantemlis.top/premium369/index.m3u8?md5v1=mva0VoLG9wjexFkNmjnwBA&md5v2=pJi7-lDCoPOG2OGSRRwKNg&expires=1781608054
-
-#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png",FOX BUSINESS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://zalis.phantemlis.top/premium297/index.m3u8?md5v1=eYCF_xy2rL4ZoUBdI3gJaw&md5v2=Ntz7wV2CmWA0DawFvyyv8Q&expires=1781608054
-
-#EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png",FX USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium317/index.m3u8?md5v1=hMsjs7NRxzejaNh7ZEq47Q&md5v2=USAKjhN3sbQxzOZjxTqkMA&expires=1781608054
-
-#EXTINF:-1 tvg-id="FOX.SOUL.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png",FOX USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium54/index.m3u8?md5v1=DXUmL7CnjQ8LZXgU8AE0LA&md5v2=tvMz7uv_Em5aAl6Um1cGew&expires=1781608056
+https://zalis.phantemlis.top/premium756/index.m3u8?md5v1=q3YEJtfThWAjSYVcypQjgg&md5v2=8xBxZWcnAqYfD8OdVkKK2w&expires=1781608244
 
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png",FXX USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://zalis.phantemlis.top/premium298/index.m3u8?md5v1=fbF_vBxIEMb8vMJexq7rFQ&md5v2=aLSRvtHbPyNvW4_-Cna3tw&expires=1781608058
+https://zalis.phantemlis.top/premium298/index.m3u8?md5v1=o_ViVYIv8mi4LoNdTheFuA&md5v2=fN_e4vjFV2mIc2BC3oDtQw&expires=1781608244
 
-#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="",FX MOVIE CHANNEL
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-logo="",FOX CRICKET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium381/index.m3u8?md5v1=g6e8EOS_XFKtd2HNoJmrhA&md5v2=dbkqAPOICE1DH3OK1-dUDw&expires=1781608058
+https://zalis.phantemlis.top/premium369/index.m3u8?md5v1=74mq1hCOgPd018BVwnnspg&md5v2=tngQ5ROYKiSN0UGCjV807w&expires=1781608245
 
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png",FOX NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium347/index.m3u8?md5v1=bWxmGarWVDltSBN-oddIcQ&md5v2=mYAaCV3455rSavO8UkTdnA&expires=1781608058
+https://vomos.phantemlis.top/premium347/index.m3u8?md5v1=Ht1dXkF7ZK543Q3P8srznw&md5v2=wz5w5FivnAKxHzxELyKz8g&expires=1781608245
 
-#EXTINF:-1 tvg-id="FM.HD.us2" tvg-logo="",FASHION TV
+#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png",FOX BUSINESS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://zalis.phantemlis.top/premium744/index.m3u8?md5v1=kQT8O0EPfwtiA9G8DCZ0_Q&md5v2=UT0Fkabxa8uaOYafv1Tdsw&expires=1781608058
+https://zalis.phantemlis.top/premium297/index.m3u8?md5v1=yiuqBPx8RsjDHv_GUhX4Yg&md5v2=xP9tHtA8o8umolLVXQTyTw&expires=1781608245
+
+#EXTINF:-1 tvg-id="FOX.SOUL.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png",FOX USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://vomos.phantemlis.top/premium54/index.m3u8?md5v1=MK4rJJqnDWLVEKr_IylYZg&md5v2=NWLGfhKfgJUzfICh8Rza6g&expires=1781608245
+
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png",FX USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://vomos.phantemlis.top/premium317/index.m3u8?md5v1=9yk6xP3DXmJCNvFZ1KP77w&md5v2=0DMyMFfem2YaBignd6aRmw&expires=1781608246
 
 #EXTINF:-1 tvg-id="Family.Entertainment.Television.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fetv-us.png",FETV - FAMILY ENTERTAINMENT TELEVISION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://fomis.phantemlis.top/premium751/index.m3u8?md5v1=EauTPnwvtleGUdPg0JgjAw&md5v2=hT1rvsEHzsXIBzL2PDa9YA&expires=1781608058
+https://fomis.phantemlis.top/premium751/index.m3u8?md5v1=itdhOhKnSgYJe9jAQ7CedQ&md5v2=IC3mE6H9E7CCR4GZU6atyA&expires=1781608246
 
-#EXTINF:-1 tvg-id="FOX.SOUL.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png",FOXNY USA
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="",FX MOVIE CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium768/index.m3u8?md5v1=B8PDuUlb-w-HRQz8c2usYQ&md5v2=iKiBeDA9_TFw1FQKZShkiQ&expires=1781608059
+https://vomos.phantemlis.top/premium381/index.m3u8?md5v1=gQin7DFqflaQrl3tgNudqg&md5v2=eVrGDDwM6gH5U0v096MPBw&expires=1781608247
 
-#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-weather-us.png",FOX WEATHER CHANNEL
+#EXTINF:-1 tvg-id="FM.HD.us2" tvg-logo="",FASHION TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium775/index.m3u8?md5v1=QQ7q3flN7n18Zht-ni89RQ&md5v2=QphPysDqsz2E2fnhmJIhww&expires=1781608059
+https://zalis.phantemlis.top/premium744/index.m3u8?md5v1=FE38cORtYSRrlnCjNouauw&md5v2=9Fe7F5jB8IqLts2-JmUtqA&expires=1781608247
 
 #EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-logo="",GOLF CHANNEL USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium318/index.m3u8?md5v1=QUmNBK3yyYJcoiHKllGmfg&md5v2=Q282KdpdAyDjD0HcFyXjhQ&expires=1781608060
+https://vomos.phantemlis.top/premium318/index.m3u8?md5v1=Tf-IXz5CoImCLjDS-LGelA&md5v2=oNGlJTimBpxMFHXEhp65lQ&expires=1781608248
+
+#EXTINF:-1 tvg-id="FOX.SOUL.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png",FOXNY USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://vomos.phantemlis.top/premium768/index.m3u8?md5v1=NP2ZnJbn9ViHbbin5vi2bg&md5v2=E2LerC9dgF3X_2-vz9Kjtg&expires=1781608249
+
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-weather-us.png",FOX WEATHER CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://vomos.phantemlis.top/premium775/index.m3u8?md5v1=NIq57MVpNsP2oP6I2Jlw5A&md5v2=9zPYrYY1iaYk5MmaN4czLQ&expires=1781608249
 
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",THE HALLMARK CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium320/index.m3u8?md5v1=kYFZwHXisTAvtrA4Dc2J3g&md5v2=lgLqrVS1JBokPy_9OO4TDA&expires=1781608061
+https://vomos.phantemlis.top/premium320/index.m3u8?md5v1=twu-WDsBEyJZ99ZTaehavQ&md5v2=XX56VYhL7r3jCL9u17ozVQ&expires=1781608250
 
 #EXTINF:-1 tvg-id="Grit.us2" tvg-logo="",GRIT CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://fomis.phantemlis.top/premium752/index.m3u8?md5v1=csCP_ADb-V7qfXdE4g9HnQ&md5v2=lyaBLWBrfkT5qCN8Y9umHg&expires=1781608061
-
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png",HBO COMEDY USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium690/index.m3u8?md5v1=Z1UOWqYxhz5V5ZbzPDNTBg&md5v2=SEloEi9rjsi37dzoalA8FA&expires=1781608062
-
-#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png",HBO FAMILY USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium691/index.m3u8?md5v1=YQScOcofzJEUh8I3V8qJMA&md5v2=g8-VawcVduxx6t8TZLOfrA&expires=1781608061
+https://fomis.phantemlis.top/premium752/index.m3u8?md5v1=Kls846nqWaiO13UVn81itw&md5v2=XvITSOjRyWpuLJaDdhrYBg&expires=1781608250
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",HBO USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium321/index.m3u8?md5v1=vMoBy40FEB3aGwFTOU2slw&md5v2=7Vdmg0fs8Q5ipusa3IAUgQ&expires=1781608062
+https://vomos.phantemlis.top/premium321/index.m3u8?md5v1=C-8DXq1MnvADAKU9UvJB3w&md5v2=No6ZhyQ1qo9pvbxwARiZxA&expires=1781608249
 
 #EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="",HALLMARK MOVIES & MYSTERIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://zalis.phantemlis.top/premium296/index.m3u8?md5v1=UnNV98RekuGaTCzW5uZyFg&md5v2=2toQgWxL0lWV7fTbnyjxNw&expires=1781608062
+https://zalis.phantemlis.top/premium296/index.m3u8?md5v1=GhFKUhQC_KM76MT4s45WFg&md5v2=0JVc641-lej_Zsggmv7GgA&expires=1781608250
+
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png",HBO COMEDY USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://pontos.phantemlis.top/premium690/index.m3u8?md5v1=L6Xc_2j-ZatV-KKPDJwI2Q&md5v2=F6WobQToQHBVb_D8eNcjtw&expires=1781608250
 
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="",HBO2 USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium689/index.m3u8?md5v1=xRx6YpBBkY6kuiwoyRenlw&md5v2=guwVRrtHnNy7nNf7rQTFmw&expires=1781608062
-
-#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-logo="",HBO SIGNATURE USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium693/index.m3u8?md5v1=VFNwfOxKHcsOjsBl9sFCcg&md5v2=Fo74AaM5dy5Y88HgOIomrg&expires=1781608063
+https://pontos.phantemlis.top/premium689/index.m3u8?md5v1=gvaf07T3JrT4uDgtsh_O6Q&md5v2=SOuYCniCrBXQLZtoqEdXbA&expires=1781608251
 
 #EXTINF:-1 tvg-id="HBO.Latino.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-latino-us.png",HBO LATINO USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium692/index.m3u8?md5v1=_x2bU9BIu3IIFet6rCzmvA&md5v2=GfHLs9b-qzewOUiodKnLag&expires=1781608064
+https://pontos.phantemlis.top/premium692/index.m3u8?md5v1=NiXK5RyO1dD9zlBUBGklmw&md5v2=11_58vDpckoSKXzPoqGS4g&expires=1781608252
+
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-logo="",HBO SIGNATURE USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://pontos.phantemlis.top/premium693/index.m3u8?md5v1=va2023nSK7XUxVTgtW8vHA&md5v2=JRmZkftdp4KunuXMee0hnA&expires=1781608253
+
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png",HBO FAMILY USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://pontos.phantemlis.top/premium691/index.m3u8?md5v1=hn0_BlhIsTRGNIaptPrzdA&md5v2=v9GD-T-46tBpjKKZexBPyA&expires=1781608252
 
 #EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/history-channel-us.png",HISTORY USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium322/index.m3u8?md5v1=jP-X-P7eCzcR1IGeHphntw&md5v2=MLHRS6Lu5WfzmflTM77pYQ&expires=1781608064
+https://pontos.phantemlis.top/premium322/index.m3u8?md5v1=lDYFpi35NukLJLl9vdfZvQ&md5v2=KG4DlBqepRJ_zpLcIzCauw&expires=1781608253
 
 #EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-logo="",HBO ZONE USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium694/index.m3u8?md5v1=FnoH8OT-alsiYZbM4nrpDA&md5v2=hgPNkv_1pDvJ6Nm4hkDGIw&expires=1781608065
-
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png",HGTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium382/index.m3u8?md5v1=iJ6K1FHgvH7lYEAnYLTD7Q&md5v2=OiPPpCGavcaYjLl5_k1TKg&expires=1781608066
-
-#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-logo="",ION USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://kolis.phantemlis.top/premium325/index.m3u8?md5v1=shqvXpGntfTAkncV9hIlZg&md5v2=COojDy1PHd3ceL9nUOVqpQ&expires=1781608066
-
-#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ifc-us.png",IFC TV USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium656/index.m3u8?md5v1=lcmr8eAN7Buxx_mmIvZtDg&md5v2=tW3U5MSZBYM6wi6ik1A-Yw&expires=1781608066
+https://pontos.phantemlis.top/premium694/index.m3u8?md5v1=-sGqhWtEzLKB5HuaZ3dYgg&md5v2=jvyl74KxkfL88vZZoPnYJA&expires=1781608253
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/investigation-discovery-us.png",INVESTIGATION DISCOVERY (ID USA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://kolis.phantemlis.top/premium324/index.m3u8?md5v1=62Ww36vxs6FuvCghncyUYw&md5v2=CHfSPWABPTNk4buZQPBcrA&expires=1781608066
+https://kolis.phantemlis.top/premium324/index.m3u8?md5v1=ucKl6DXRNgHbIL5X1xmKVw&md5v2=zQYmIlA9sD0A-d2UmGrwFw&expires=1781608254
 
-#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-movies-us.png",LIFETIME MOVIES NETWORK
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png",HGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium389/index.m3u8?md5v1=mJJanvQLcJDYnswZwjA3Gg&md5v2=OwjleNnd3eFCFBBjwcwg-w&expires=1781608067
+https://vomos.phantemlis.top/premium382/index.m3u8?md5v1=g7V4-eJBdbxCywOUpwdVDQ&md5v2=Q1V-GJ1uWmwfjE9Xqg1TeQ&expires=1781608254
+
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-logo="",ION USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://kolis.phantemlis.top/premium325/index.m3u8?md5v1=hNEFV2JIUupFAJv3uWLazQ&md5v2=CpkbOW733_DN1d8dzMiRDA&expires=1781608255
+
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ifc-us.png",IFC TV USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://pontos.phantemlis.top/premium656/index.m3u8?md5v1=fse-N-rsyz8umvqpgoaTjA&md5v2=a-sO2-gzqxs3psGnPJ7aIA&expires=1781608255
 
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",LIFETIME NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://kolis.phantemlis.top/premium326/index.m3u8?md5v1=6bh1usMz7d0-ha64DPSHqg&md5v2=yXIl7Xfo0dCK9yiLVeL5PA&expires=1781608067
+https://kolis.phantemlis.top/premium326/index.m3u8?md5v1=LplDKk87oi_knucYnHbHOg&md5v2=cY2yYWlWYmfyq3TJuCJRzg&expires=1781608255
 
-#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png",MLB NETWORK USA
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-movies-us.png",LIFETIME MOVIES NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://kolis.phantemlis.top/premium399/index.m3u8?md5v1=tOvX9W61LMSDDPmb3MzeqQ&md5v2=jUfaHE2lv5EslfJeDSnT1w&expires=1781608069
-
-#EXTINF:-1 tvg-id="Discovery.Turbo.TV.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-turbo-us.png",DISCOVERY TURBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://fomis.phantemlis.top/premium661/index.m3u8?md5v1=YSZEaZtfjdZS2USpTkFS9g&md5v2=C93wvxgchsHp93mWxYCs6A&expires=1781608069
-
-#EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png",MGM+ USA / EPIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium791/index.m3u8?md5v1=joKxEORkDAW584nAKAg4fw&md5v2=URSvytROZzoNiPRr65ALNQ&expires=1781608068
-
-#EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png",NBC USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://kolis.phantemlis.top/premium53/index.m3u8?md5v1=0Y1vjZUwV5FINxCX7pvgFQ&md5v2=K9tbSSOJhuDsRxyr4L7_zg&expires=1781608069
+https://pontos.phantemlis.top/premium389/index.m3u8?md5v1=nRERI1Do48IRKJUA1Wcusw&md5v2=wuKEcEO2JvmleXBQpQQqeQ&expires=1781608256
 
 #EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-logo="",METV USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://zalis.phantemlis.top/premium662/index.m3u8?md5v1=FvZnsRrGs5EsHcWA8XQloQ&md5v2=i9TH6r0x-J8O3835i9vSKw&expires=1781608070
+https://zalis.phantemlis.top/premium662/index.m3u8?md5v1=JNZoN_hQq4w-zdcZ9EO4XQ&md5v2=GV6hxxwYa3NMF5rQ0O3W-w&expires=1781608255
 
-#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png",NBA TV USA
+#EXTINF:-1 tvg-id="Discovery.Turbo.TV.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-turbo-us.png",DISCOVERY TURBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium404/index.m3u8?md5v1=Ma3-Ja3lzhEII-PBMLXWoQ&md5v2=vqFAACa7gY5P3StRpHHdXQ&expires=1781608071
+https://fomis.phantemlis.top/premium661/index.m3u8?md5v1=T9aQDPZ9xC5qrFTis2Jsrg&md5v2=S-yMBSPe5eQm0u8kK7ZQsg&expires=1781608257
+
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png",MLB NETWORK USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://kolis.phantemlis.top/premium399/index.m3u8?md5v1=zPCJ8gushJ9B5HOZBNjZbQ&md5v2=izp89CJHdDgRUxDn4tEIvA&expires=1781608256
+
+#EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png",MGM+ USA / EPIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://vomos.phantemlis.top/premium791/index.m3u8?md5v1=RYMSHBe2DXcrfeifmtJLPQ&md5v2=kiTj6qN3VKdKdlV_NzFOVA&expires=1781608257
 
 #EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png",NHL NETWORK USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://fomis.phantemlis.top/premium663/index.m3u8?md5v1=T044286zssGvU8UW8YPrOg&md5v2=TCP2PPmG9uPyda4ltADxlQ&expires=1781608070
+https://fomis.phantemlis.top/premium663/index.m3u8?md5v1=tIp4al05kkmE8Ttb3EZFhw&md5v2=FdIheBfqAIXxyBqaEJxULg&expires=1781608258
 
-#EXTINF:-1 tvg-id="Nick.Music.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-music-us.png",NICK MUSIC
+#EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png",NBC USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://zalis.phantemlis.top/premium666/index.m3u8?md5v1=_2qET1Ygpd6BWeCMBE1eXg&md5v2=Yyx8i-3rUlftCwZNwJz9Rw&expires=1781608070
-
-#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png",NATIONAL GEOGRAPHIC (NGC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium328/index.m3u8?md5v1=SrVf3nUUHCL9xdbyJdGyFA&md5v2=uj_iYJhXm8E1rc0bAG8PHw&expires=1781608071
-
-#EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png",NBCNY USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium769/index.m3u8?md5v1=MWsrf8RPN-8ufFnGuXgqig&md5v2=0caybvOY4zE7PiZqgicyXA&expires=1781608072
-
-#EXTINF:-1 tvg-id="NewsNation.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/news-nation-us.png",NEWSNATION USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium292/index.m3u8?md5v1=-ujTaP5AjULw7o74dsTwkQ&md5v2=SUwDGB24zJpJfH8SX9C5ZQ&expires=1781608072
+https://kolis.phantemlis.top/premium53/index.m3u8?md5v1=ha_RpaeqVWwCpQL4IOQmqA&md5v2=3Av2RoUEqfeOFvSl6p2TzQ&expires=1781608259
 
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png",NFL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium405/index.m3u8?md5v1=bXW_MazWqKFTQVKHi6B--g&md5v2=RPWo3qwpZZeIVK_J6mhlWg&expires=1781608072
+https://vomos.phantemlis.top/premium405/index.m3u8?md5v1=weXlBPKSXS-RBgSiGPopZg&md5v2=8mmFU3rvVOL6XHZyl9I-fg&expires=1781608259
 
-#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png",NICK
+#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png",NBA TV USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://kolis.phantemlis.top/premium330/index.m3u8?md5v1=cvTZ4g-_EHf7eqkQdfZVwA&md5v2=LVFOp-4yZan1rRkOJO3gIw&expires=1781608073
+https://vomos.phantemlis.top/premium404/index.m3u8?md5v1=MprW2mY-1zKwkqW2ur-vUw&md5v2=wZ3ng8BoK6IPUUUTRi2AEg&expires=1781608259
 
-#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",NICK JR
+#EXTINF:-1 tvg-id="Nick.Music.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-music-us.png",NICK MUSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://kolis.phantemlis.top/premium329/index.m3u8?md5v1=rcbyfGtRCWtix5o5H1GPbg&md5v2=HRpU_CUjY-0GaEaO4IoIAw&expires=1781608074
+https://zalis.phantemlis.top/premium666/index.m3u8?md5v1=8dyK2IlzqkXUD0zflbP1dQ&md5v2=7mPHUi8Gs_ob5Y4t-anNYA&expires=1781608259
+
+#EXTINF:-1 tvg-id="NewsNation.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/news-nation-us.png",NEWSNATION USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://pontos.phantemlis.top/premium292/index.m3u8?md5v1=5VGv1scByMwItS9kDMS9Cg&md5v2=YbKrZMW0e3WiefccumdVmQ&expires=1781608259
+
+#EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png",NBCNY USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://vomos.phantemlis.top/premium769/index.m3u8?md5v1=NfF4WW08xveBdlz2VSKiFA&md5v2=LIY4xXZ96p0DSmy9DUyK7w&expires=1781608261
+
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png",NATIONAL GEOGRAPHIC (NGC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://vomos.phantemlis.top/premium328/index.m3u8?md5v1=hecSDzLLLY_LjEE8HF-JFg&md5v2=GObSzDd0byiyAMapHH4o2Q&expires=1781608261
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png",PARAMOUNT NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium334/index.m3u8?md5v1=v8_4uBrHIe4aAsQpdimL6A&md5v2=xqleT8oWkt62SLQXZKeICA&expires=1781608075
-
-#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png",NICKTOONS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://fomis.phantemlis.top/premium649/index.m3u8?md5v1=c_naDez4hyKwlu91JUyglg&md5v2=aoZ18JHGKwA44RcoEPS0-w&expires=1781608075
-
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-comedy-us.png",STARZ COMEDY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium971/index.m3u8?md5v1=RC3iQm_al14aYUKoIniaCw&md5v2=14Pe4am5EB-qBQK2hiV9Jg&expires=1781608076
+https://pontos.phantemlis.top/premium334/index.m3u8?md5v1=DcI9S_k1eATchTVqRUPa1g&md5v2=WAOf5-lHoPEC498RDs50EQ&expires=1781608261
 
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-cinema-us.png",STARZ CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium970/index.m3u8?md5v1=9jveD8_0buCC5go3mVR8Sw&md5v2=GlVQ8eriRJBiDuX72jxjsw&expires=1781608076
+https://pontos.phantemlis.top/premium970/index.m3u8?md5v1=G7g-B3FJ_2uy83EBMQ7Csw&md5v2=T4m4JfPGlFa-lUMcbi0CHg&expires=1781608261
 
-#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-kids-and-family-us.png",STARZ KIDS & FAMILY
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",NICK JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium974/index.m3u8?md5v1=C9E3toq0ppVK4q4dk6VlcQ&md5v2=8h5sEgJg1Kdg_LuxDCWrMw&expires=1781608075
+https://kolis.phantemlis.top/premium329/index.m3u8?md5v1=jyZxmZ8IurMWD5N7eFz-yw&md5v2=8h0H8BfSI-4EQcNbA16XXQ&expires=1781608262
+
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png",NICK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://kolis.phantemlis.top/premium330/index.m3u8?md5v1=k99qiET-GVLcMW2Zc1HsuQ&md5v2=WzMLOWPV5uMAvMY3f18dwg&expires=1781608262
+
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png",NICKTOONS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://fomis.phantemlis.top/premium649/index.m3u8?md5v1=zoRdH6fGH02tUqQ-jiSj6w&md5v2=Gt99rBr5i3BqhtnLnc7h7Q&expires=1781608262
 
 #EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-edge-us.png",STARZ EDGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium972/index.m3u8?md5v1=iPJEGYMG2cKuTrFwAVArGw&md5v2=KSv83d-SmQJA7tGpcyjOuQ&expires=1781608076
+https://pontos.phantemlis.top/premium972/index.m3u8?md5v1=Yg6le_7E7YlJF04YLkx06w&md5v2=k_CUD3Xbqu7Npi1XoNZRpg&expires=1781608262
+
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-comedy-us.png",STARZ COMEDY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://pontos.phantemlis.top/premium971/index.m3u8?md5v1=APZejyRpou5IrY5VwF24vA&md5v2=Ki7qz4j8P2_-VSsSoefSOA&expires=1781608264
 
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-in-black-us.png",STARZ IN BLACK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium973/index.m3u8?md5v1=ROkgYJFwFsv17uvCC_8VeA&md5v2=YAqUO1A4LjNQoBEMM-mMsQ&expires=1781608076
-
-#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-action-us.png",STARZ ENCORE ACTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium976/index.m3u8?md5v1=sXdyzha6pnnTbMoEHLoZqQ&md5v2=vGWSiauNCkNAkWn1PwLM2w&expires=1781608076
-
-#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-black-us.png",STARZ ENCORE BLACK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium977/index.m3u8?md5v1=oVDmbTq9m7CceuClxg_sXQ&md5v2=vEu2zqMZsPEdprNkZyQ40A&expires=1781608079
+https://pontos.phantemlis.top/premium973/index.m3u8?md5v1=vRqfgYzX2-WhSoAUJ2LxLQ&md5v2=A5FCskMi30wYVDE-N08Okg&expires=1781608265
 
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-us.png",STARZ ENCORE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium975/index.m3u8?md5v1=Lpul9UXnaBLtSNHQ3XM98g&md5v2=OVg7PXPpsMzJ4_ExLVyLGA&expires=1781608078
+https://pontos.phantemlis.top/premium975/index.m3u8?md5v1=j26a23fwLlVAHJTEAwr4bA&md5v2=mEre6uj5PMQnjPVQr1GwXw&expires=1781608264
+
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-kids-and-family-us.png",STARZ KIDS & FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://pontos.phantemlis.top/premium974/index.m3u8?md5v1=DfKyigR1r_DWt_9x9vq8dQ&md5v2=QhJT2wIchWpF56UGh_WdNw&expires=1781608265
+
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-action-us.png",STARZ ENCORE ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://pontos.phantemlis.top/premium976/index.m3u8?md5v1=IdKXxF7P2iBjha_JDY9nUg&md5v2=f-pGnHyh-mSpKZh4535cIg&expires=1781608266
 
 #EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-classic-us.png",STARZ ENCORE CLASSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium978/index.m3u8?md5v1=J9ktVtJlbSojxiTkVv9deg&md5v2=k_4RpdgmXzlnvZWPFmqOxA&expires=1781608078
+https://pontos.phantemlis.top/premium978/index.m3u8?md5v1=GtZUkcP2uK09ABASRDg0yA&md5v2=scMh6niiiGVEuV9gRcUX7g&expires=1781608266
 
-#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-westerns-us.png",STARZ ENCORE WESTERNS
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-black-us.png",STARZ ENCORE BLACK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium981/index.m3u8?md5v1=0oW48Wbl8e7rsyEY-Sb29Q&md5v2=zAciGqXQc7nwC5hZfkwq8Q&expires=1781608080
+https://pontos.phantemlis.top/premium977/index.m3u8?md5v1=JZbcoa-wM7sphebLR2pncA&md5v2=dDNDw8QEPG0PGoulmiMJ8w&expires=1781608266
 
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-family-us.png",STARZ ENCORE FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium979/index.m3u8?md5v1=iMQhX4Sj9DP9yiX7pTrTOg&md5v2=h1uYrzwiFw1O5sOWstkp-Q&expires=1781608081
+https://pontos.phantemlis.top/premium979/index.m3u8?md5v1=3KlOA7IqPQPUSjAFNqgfFQ&md5v2=b8GT12iNY0JYbdavFDzqVg&expires=1781608267
 
-#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sec-network-us.png",SEC NETWORK USA
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-westerns-us.png",STARZ ENCORE WESTERNS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium385/index.m3u8?md5v1=yjeNpgK0e1d98WAZfVKOng&md5v2=ZyXhgLtr418mvMTxN3Kxng&expires=1781608080
+https://pontos.phantemlis.top/premium981/index.m3u8?md5v1=1mDW-cxr-cZA2aXFrV8UQg&md5v2=VLcz4844RUJFwBsfb87xVQ&expires=1781608268
 
 #EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-suspense-us.png",STARZ ENCORE SUSPENSE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium980/index.m3u8?md5v1=cRU1h46Jec_H1oZ8GKczIQ&md5v2=h-ilyZ_oDG2Duw_Bag_KMw&expires=1781608080
-
-#EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png",SHOWTIME SHOXBET USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium695/index.m3u8?md5v1=-XNFw01s-PY2KmEPOvc9Gg&md5v2=oxZNJDZqsaFtUTShQ1tnXg&expires=1781608081
+https://pontos.phantemlis.top/premium980/index.m3u8?md5v1=ZKfn-522EJNEUD2OKiIBmQ&md5v2=EnI0nPmuK_IG0Uv2m0sn4g&expires=1781608267
 
 #EXTINF:-1 tvg-id="CW.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/the-cw-us.png",CW PHILLY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://kolis.phantemlis.top/premium866/index.m3u8?md5v1=cuc7_mKrTTmgc8exb6iIPQ&md5v2=sXXVyDsCUhAGBFltAZEEOQ&expires=1781608082
+https://kolis.phantemlis.top/premium866/index.m3u8?md5v1=pCd7ZsVsAhHddSgg8vYTbg&md5v2=f-ifwK_zWiKCDihKNtyjEA&expires=1781608268
 
-#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/history-channel-us.png",SKY HISTORY
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sec-network-us.png",SEC NETWORK USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://kolis.phantemlis.top/premium686/index.m3u8?md5v1=DJ5BljPexv49MJrUplN4Sg&md5v2=NrF8UuZT87tSbKqGOypl6Q&expires=1781608082
+https://vomos.phantemlis.top/premium385/index.m3u8?md5v1=DJz-oGq3zEpjM4Kz62KGNQ&md5v2=UnwzFkzCvEFUMprAP4pYvg&expires=1781608269
 
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png",SHOWTIME USA
+#EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png",SHOWTIME SHOXBET USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://kolis.phantemlis.top/premium333/index.m3u8?md5v1=IQ8iaJ7Pkpn01ENvOT30Ew&md5v2=zbpto85Og5eISVHV9KVItw&expires=1781608083
-
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-showcase-us.png",SHOWTIME SHOWCASE USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium793/index.m3u8?md5v1=sTbUEWBD73mKLXDbxsFTvg&md5v2=mco--WEGouTd0SlATam5Gw&expires=1781608083
+https://pontos.phantemlis.top/premium695/index.m3u8?md5v1=jVnxH84ZJ0Hjwd9TgdpauA&md5v2=pEEZ4Sn1Kz1b99VBv98M6A&expires=1781608269
 
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png",STARZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium335/index.m3u8?md5v1=jNyj1yK7jg9olBGvywXI_g&md5v2=QAMmxfTNl5tuTGHwMdHsiw&expires=1781608084
+https://vomos.phantemlis.top/premium335/index.m3u8?md5v1=wj6RgBcIwfMbcV0VTGZ3RQ&md5v2=_ouXy9wGZqflXpoYKYSyuA&expires=1781608269
+
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/history-channel-us.png",SKY HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://kolis.phantemlis.top/premium686/index.m3u8?md5v1=_HTuwhbUgnjqY7dlZy5Fmw&md5v2=7ISqLG6Zj2RDG7PTW1vjQw&expires=1781608270
 
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-2-us.png",SHOWTIME 2 USA (SHO2) USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium792/index.m3u8?md5v1=6rJxHx3pJo29XXjVIodZcA&md5v2=xKsMlACGY2dLnHjmK60TNw&expires=1781608084
+https://vomos.phantemlis.top/premium792/index.m3u8?md5v1=KRWmX0yxF4w0fRIM6Du_KA&md5v2=sZz5eO2fVmgYYhaM7z5s7Q&expires=1781608269
+
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png",SHOWTIME USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://kolis.phantemlis.top/premium333/index.m3u8?md5v1=KatLETQXNay_jK7ZSlnqgQ&md5v2=rUKgiNsUPWATKJHdJZV1Ow&expires=1781608270
 
 #EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-family-zone-us.png",SHOWTIME FAMILY ZONE (SHO FAMILY ZONE) USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium795/index.m3u8?md5v1=nwR0Ck7pAk4l5rCGXDAU7A&md5v2=Z_BBGmt0XFeSdncHrsJRTA&expires=1781608085
+https://pontos.phantemlis.top/premium795/index.m3u8?md5v1=mmK3kDldBKUfsiyBLtryHg&md5v2=d3CIKQbBV_hPcPg7WsFu-g&expires=1781608270
 
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-women-us.png",SHOWTIME WOMEN USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://fomis.phantemlis.top/premium797/index.m3u8?md5v1=EVNxtABgMQMgyZBnZYk5oQ&md5v2=eqGJU88UYONzE3iK28JKWw&expires=1781608086
+https://fomis.phantemlis.top/premium797/index.m3u8?md5v1=syyrA1STlkizaTcydGe9Kw&md5v2=-Y8JDlvjRDz261Tz081aJw&expires=1781608271
+
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-showcase-us.png",SHOWTIME SHOWCASE USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://vomos.phantemlis.top/premium793/index.m3u8?md5v1=fz1pnnU_Qw_4ChOM6dgFeQ&md5v2=DogY1rVR3Es34Xftt06_ug&expires=1781608271
 
 #EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-next-us.png",SHOWTIME NEXT (SHO NEXT) USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium796/index.m3u8?md5v1=_VzW0pySNSYv4HrL3w_yEw&md5v2=XM4GYMxwqFTa8zcaDkzDPg&expires=1781608086
+https://pontos.phantemlis.top/premium796/index.m3u8?md5v1=w-yXM4dFdHwkErLwcZiSmQ&md5v2=VQgm7dRFp15gg2IlYUhwjA&expires=1781608272
 
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium336/index.m3u8?md5v1=TX05iddyPcqkKrUiiFdTBw&md5v2=5STs4Y-KR_1di4S2k8WPWQ&expires=1781608087
+https://vomos.phantemlis.top/premium336/index.m3u8?md5v1=kFUDpJSX4UzA8fUIyY4n5A&md5v2=90U1GTBTbwDmJg9tFxWGPg&expires=1781608274
 
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium338/index.m3u8?md5v1=Bg7jjEm3zluDDl3LBJ2rnQ&md5v2=CUI9sofjNoB4HCBm1p8Syg&expires=1781608086
+https://vomos.phantemlis.top/premium338/index.m3u8?md5v1=EEM2Bbq9UZJvsch1CnqCMg&md5v2=-ioVdWQMzY6bbhHLCln74g&expires=1781608274
 
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png",TCM USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium644/index.m3u8?md5v1=asrZKQ6dSjV89XO-fIuXVQ&md5v2=zZ0W1HtPQJM-LIfupw0QZw&expires=1781608087
-
-#EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png",TEENNICK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
-#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://fomis.phantemlis.top/premium650/index.m3u8?md5v1=cmaP8PXip16lVlpYEhlmSg&md5v2=20z5Rv0q16ZHmbRVtWCuyQ&expires=1781608087
+https://pontos.phantemlis.top/premium644/index.m3u8?md5v1=A-pL6XVuCytVBHUdDRg5qw&md5v2=FVsbEe20emZmTjF45B0cuA&expires=1781608274
 
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png",THE FOOD NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://vomos.phantemlis.top/premium384/index.m3u8?md5v1=-WtCWrvBzXz7V1_IaiWB6A&md5v2=Dp8maTxIP7N9rc-qGP57Qg&expires=1781608087
+https://vomos.phantemlis.top/premium384/index.m3u8?md5v1=BISQb78iA-h-UfocOZ2G4w&md5v2=olaKrVO1oxVUBr7fXPFUkQ&expires=1781608275
+
+#EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png",TEENNICK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
+#EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
+https://fomis.phantemlis.top/premium650/index.m3u8?md5v1=GIE4lINPIJydpzuHjJLd2g&md5v2=THJSjui84X65oX3D-AdW4w&expires=1781608275
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png",USA NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0.0.0 Safari/132.0.0.0
 #EXTVLCOPT:http-referrer=https://dlhd.pk/watch.php
-https://pontos.phantemlis.top/premium343/index.m3u8?md5v1=u_KhTPV6v96XI2_gyYUySA&md5v2=J7ir5ZPTxSNzMqEzFr_K9w&expires=1781608088
+https://pontos.phantemlis.top/premium343/index.m3u8?md5v1=CfTlsvAM6n6B0RmgviKCOQ&md5v2=139ZSzr6bt0uJAcLdEjp-w&expires=1781608275
